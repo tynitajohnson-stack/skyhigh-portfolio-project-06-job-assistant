@@ -1,0 +1,19 @@
+
+{
+  "sources": [
+    {
+      "name": "greenhouse",
+      "type": "greenhouse",
+      "enabled": true,
+      "company": "Cloudflare",
+      "board_token": "cloudflare"
+    },
+    {
+      "name": "rss_feed",
+      "type": "rss",
+      "enabled": false,
+      "company": "Various",
+      "url": ""
+    }
+  ]
+}
